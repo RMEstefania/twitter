@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Modelando aplicación",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RMEstefania/twitter.git"
+  },
+  "author": "Estefania Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RMEstefania/twitter/issues"
+  },
+  "homepage": "https://github.com/RMEstefania/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
